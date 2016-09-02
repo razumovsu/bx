@@ -1,0 +1,48 @@
+
+lineComp:
+lineComp
+
+$this->filter:
+Array
+(
+    [USER_ID] => 1
+    [ACTIVE] => Y
+)
+
+
+arResult:
+Array
+(
+    [CURRENT_ELEMENT_IN_FAVORITES] => Array
+        (
+            [0] => 5
+            [1] => 4
+        )
+
+)
+
+
+lineComp:
+lineComp
+
+$this->filter:
+Array
+(
+    [COOKIE_USER_ID] => 67f222d3471ce8e9ec31d85b9aa313c2
+    [ACTIVE] => Y
+)
+
+
+arResult:
+Array
+(
+    [CURRENT_ELEMENT_IN_FAVORITES] => Array
+        (
+        )
+
+)
+
+
+lineComp:
+lineComp
+
